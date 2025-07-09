@@ -1,3 +1,5 @@
+The main package is maintained by Dennis over [here](https://github.com/denironyx/restcountries).  This was just a fork to help him out.
+
 # restcountriesr
 A simple wrapper of the rest countries restful API - http://restcountries.eu/
 
